@@ -6,23 +6,23 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 Step 1:
-
 Get the file name and location from the user.
+
 Step 2:
-
 Give a new file name to create a copy of a file content.
+
 Step 3:
-
 Read the file and close the file.
+
 Step 4:
-
 Now write the content in the new file.
+
 Step 5:
-
 When done print"File copied successfully".
-Step 6:
 
+Step 6:
 End of the program
+
 ## PROGRAM:
 ```
 Developed by: SANJAY S
@@ -43,7 +43,13 @@ fileHandle.close()
 print("\nfile copied Successfully")  
 ```
 ### OUTPUT:
-![image](https://github.com/22002102/copy-file/assets/119091638/ade1b73a-2ca0-47c1-ad78-70e9f4220bfb)
+![image](https://github.com/22002102/copy-file/assets/119091638/b88c628b-a600-43c1-b3cb-975ce6519c53)
+
+
+
+
+![image](https://github.com/22002102/copy-file/assets/119091638/9e8999d0-46ce-4a66-a85f-0d16ea4c00f9)
+
 
 
 
